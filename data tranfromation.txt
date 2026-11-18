@@ -1,0 +1,24 @@
+data tranfromation 
+data extraction 
+data profiling- column distribution,texl tools,numeric tool,
+text data 
+kPI:  KEY PERFORMANCE INDICATER 
+INDEXING ,CUSTOM CALLER ,
+THREE KEY QUESTIIONS WE HAVE TO ASK IN PROJECT WORKING :
+*WHAT TYPE OF DATA ARE YOU WORKING WITH ? 
+ANS: TIME SERIES,FINANCIAL,
+*WHAT DO YOU WANT TO COMMUNICAATE?
+ANS:  COMPARISION,
+*TO WHOM WE ARE WORKING WITH?
+
+
+
+DAX(DATA Analysis Expressions)
+measure=sum(sheet1 measure
+table:
+search1=filter(sheet1,sheet1
+
+
+
+sever name: 1234567.0.0.1:3306 0r 07
+database name:
